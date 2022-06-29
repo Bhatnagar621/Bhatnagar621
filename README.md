@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning python.
 - 🌱I'm also learning android app development with java
 - 💞️ I’m looking to collaborate on any beginner's java project
-- 📫 How to reach me: www.linkedin.com/in/kushagra-bhatnagar-060201
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kushagra-bhatnagar-060201)
 
